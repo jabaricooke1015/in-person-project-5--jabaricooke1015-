@@ -35,8 +35,8 @@ This repository is a GitHub **template** (GitHub Classroom is not used this term
 
 2. **Clone your new repository:**
    ```bash
-   git clone https://github.com/<your-github-username>/in-person-project-5-<your-github-username>.git
-   cd in-person-project-5-<your-github-username>
+   git clone https://github.com/<your-github-username>/in-person-project-5-<jabaricooke1015>.git
+   cd in-person-project-5-<jabaricooke1015>
    ```
 
 #### Second: Install and run (start this now)
